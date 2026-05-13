@@ -1,0 +1,1 @@
+alias aczgnew='bash $SCRIPTS_DIR/new_project.sh'
