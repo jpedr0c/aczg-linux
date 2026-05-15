@@ -1,4 +1,4 @@
-# ACZG Hero Project 🚀
+# ACZG Linux 🚀
 
 Automação de tarefas cotidianas do ACZG com Shell Script, Alias e Cron Jobs — instalável em qualquer máquina Linux com um único comando.
 
